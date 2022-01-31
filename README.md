@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wrkcoder
 - 👀 I’m interested in ... python and machine learnig
-- 🌱 I’m currently learning ... machine learnig
+- 🌱 I’m currently learning ... machine learnig finished supervised machine learning ,and still unsupervised and Reinforcement machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... moh-wll@hotmail.com
 
